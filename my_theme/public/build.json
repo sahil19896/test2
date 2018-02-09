@@ -1,0 +1,6 @@
+{
+        "css/my_theme.css": [
+                "public/css/my_theme.css",
+		"public/css/my_custom.css"
+        ]
+}
