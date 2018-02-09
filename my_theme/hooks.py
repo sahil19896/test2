@@ -6,7 +6,7 @@ app_name = "my_theme"
 app_title = "My Theme"
 app_publisher = "sahil"
 app_description = "ERPNext Theme"
-app_icon = "fa fa-computer"
+app_icon = "fa fa-laptop"
 app_color = "orange"
 app_email = "sahil19893@gmail.com"
 app_license = "MIT"
@@ -17,7 +17,10 @@ app_license = "MIT"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/my_theme/css/my_theme.css"
 # app_include_js = "/assets/my_theme/js/my_theme.js"
-
+app_include_css = [
+	"/assets/my_theme/css/my_theme.css",
+	"/assets/my_theme/css/my_custom.css"
+]
 # include js, css files in header of web template
 # web_include_css = "/assets/my_theme/css/my_theme.css"
 # web_include_js = "/assets/my_theme/js/my_theme.js"

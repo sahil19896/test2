@@ -1981,7 +1981,7 @@ html {
   background: #383838;
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, "Open Sans", sans-serif;
+  font-family: Nova Flat;
   font-size: 14px;
   line-height: 1.42857143;
   color: #36414c;
@@ -2080,7 +2080,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: Nova Flat;
   font-weight: 500;
   line-height: 1.3em;
   color: inherit;
@@ -3919,6 +3919,7 @@ fieldset[disabled] .btn {
   color: inherit;
   border-color: #cdcfd0;
   background: #efefef;
+  font-family: Nova Flat;
 }
 .btn-default:hover,
 .btn-default:focus,
@@ -10841,7 +10842,6 @@ body[data-route="desktop"] .navbar-default {
   margin-top: 5px;
   transition: 0.2s;
   -webkit-transition: 0.2s;
-  font-family: Nova Flato;
 }
 .app-icon {
   padding: 20px;
